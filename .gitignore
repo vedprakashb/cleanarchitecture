@@ -3,3 +3,5 @@
 ################################################################################
 
 /CleanArch/.vs/CleanArch/v16
+/CleanArch/CleanArch.Domain/bin/Debug/netcoreapp3.1
+/CleanArch/CleanArch.Domain/obj
