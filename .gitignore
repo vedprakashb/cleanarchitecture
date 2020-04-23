@@ -5,3 +5,10 @@
 /CleanArch/.vs/CleanArch/v16
 /CleanArch/CleanArch.Domain/bin/Debug/netcoreapp3.1
 /CleanArch/CleanArch.Domain/obj
+/CleanArch/CleanArch.Application/bin/Debug/netcoreapp3.1
+/CleanArch/CleanArch.Application/obj
+/CleanArch/CleanArch.Infra.Data/bin/Debug/netcoreapp3.1
+/CleanArch/CleanArch.Infra.Data/obj/Debug/netcoreapp3.1
+/CleanArch/CleanArch.Infra.Data/obj
+/CleanArch/CleanArch.Infra.IoC/bin/Debug/netcoreapp3.1
+/CleanArch/CleanArch.Infra.IoC/obj

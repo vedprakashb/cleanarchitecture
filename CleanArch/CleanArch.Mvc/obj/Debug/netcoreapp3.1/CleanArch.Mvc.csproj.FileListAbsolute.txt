@@ -79,3 +79,12 @@ D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcore
 D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.csproj.CopyComplete
 D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.dll
 D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.pdb
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.csprojAssemblyReference.cache
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+D:\CleanArchitecture\cleanarchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
