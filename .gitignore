@@ -12,3 +12,11 @@
 /CleanArch/CleanArch.Infra.Data/obj
 /CleanArch/CleanArch.Infra.IoC/bin/Debug/netcoreapp3.1
 /CleanArch/CleanArch.Infra.IoC/obj
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/cs
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/de
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/es
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/fr
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/it
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/ja
+/CleanArch/CleanArch.Mvc/bin/Debug/netcoreapp3.1/ko
+/CleanArch/CleanArch.Mvc/bin/Debug*
